@@ -1,0 +1,13 @@
+tipo:CORRIENTE:14000:20000.0
+tipo:ESPECIAL:23000:60000.0
+tipo:DIESEL:19520:50000.0
+tipo:SUPER +:50000:1000000.0
+surtidor:Valentina:CORRIENTE:0.0:ESPECIAL:0.0:DIESEL:0.0:SUPER +:0.0
+surtidor:Ludwing:CORRIENTE:0.0:ESPECIAL:0.0:DIESEL:0.0:SUPER +:0.0
+surtidor:Andres:CORRIENTE:0.0:ESPECIAL:0.0:DIESEL:0.0:SUPER +:0.0
+surtidor:Valentina:CORRIENTE:0.0:ESPECIAL:0.0:DIESEL:0.0:SUPER +:0.0
+empleado:Andres:0
+empleado:Juan Jose:0
+empleado:Luisa:0
+empleado:Valentina:0
+empleado:Ludwing:0
